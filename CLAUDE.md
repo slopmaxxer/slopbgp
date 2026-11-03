@@ -1,7 +1,7 @@
 # slopbgp development notes
 
 Gleam BGP-4/MP-BGP daemon for DN42 on Erlang/OTP, public MIT:
-https://github.com/slopinger/slopbgp. `AGENTS.md` points here. README.md is the full
+https://github.com/slopmaxxer/slopbgp. `AGENTS.md` points here. README.md is the full
 feature/RFC reference and CLI guide; keep it, this file and the Nix packaging current.
 
 - Architecture: one OTP actor per peer session (crashes never take down the Loc-RIB or

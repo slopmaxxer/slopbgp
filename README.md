@@ -422,6 +422,6 @@ services.slopbgp = {
 
 ## Source
 
-Source: [https://github.com/slopinger/slopbgp](https://github.com/slopinger/slopbgp)
+Source: [https://github.com/slopmaxxer/slopbgp](https://github.com/slopmaxxer/slopbgp)
 
 Licensed under the [MIT License](LICENSE).
